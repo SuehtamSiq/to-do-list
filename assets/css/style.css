@@ -72,7 +72,15 @@ body{
     font-size: 1.4rem;
     text-transform: capitalize;
     display: flex;
+    align-items: center;
     justify-content: space-between;
+}
+
+#to_do_list li:hover{
+    background-color: var(--color-dark3);
+    transition: .4s;
+    border-radius: 1rem;
+    padding-left: 1rem;
 }
 
 #btn-ok{
@@ -88,4 +96,9 @@ body{
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    transition: .4s;
+}
+
+#btn-ok:hover{
+    background-color: var(--color-green2);
 }
