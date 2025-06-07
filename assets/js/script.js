@@ -57,3 +57,9 @@ function removeItem(data){
 }
 
 showValues()
+
+document.getElementById('input_new_task').addEventListener('keypress', function(event) {
+    if (event.key === 'Enter') {
+        newTask()
+    }
+})
