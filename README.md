@@ -20,7 +20,7 @@ Este é um projeto simples de **Lista de Tarefas (To-Do List)** desenvolvido com
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
-- <a href="https://boxicons.com/" target="_blank" target="_blank">Boxicons</a> para ícones visuais
+- <a href="https://boxicons.com/" target="_blank">Boxicons</a> para ícones visuais
 
 ---
 
@@ -28,4 +28,4 @@ Este é um projeto simples de **Lista de Tarefas (To-Do List)** desenvolvido com
 ## 🚀 Como usar
 
 Você pode ver o projeto rodando ao vivo aqui:  
-🔗 <a href="https://to-do-list-topaz-sigma.vercel.app/">Clique para acessar a demo</a>
+🔗 <a href="https://to-do-list-topaz-sigma.vercel.app/" target="_blank">Clique para acessar a demo</a>
